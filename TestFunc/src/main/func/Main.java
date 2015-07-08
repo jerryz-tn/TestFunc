@@ -8,6 +8,8 @@ public class Main {
 		fn.getInfo();
 		
 		System.out.println("2 + 3 = " + Function.add(2, 3));
+		
+		System.out.println("Test 1.");
 	}
 
 }
