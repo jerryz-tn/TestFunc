@@ -10,6 +10,7 @@ public class Main {
 		System.out.println("2 + 3 = " + Function.add(2, 3));
 		
 		System.out.println("Test 1.");
+		System.out.println("Test 2.");
 	}
 
 }
