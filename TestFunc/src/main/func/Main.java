@@ -6,6 +6,8 @@ public class Main {
 		Function fn = new Function();
 		//add code for test
 		fn.getInfo();
+		
+		System.out.println("2 + 3 = " + Function.add(2, 3));
 	}
 
 }
