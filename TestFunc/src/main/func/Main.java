@@ -1,5 +1,7 @@
 package main.func;
 
+import model.func.ModelB;
+
 public class Main {
 
 	public static void main(String[] args) {
@@ -12,6 +14,8 @@ public class Main {
 		System.out.println("Test 1.");
 		System.out.println("Test 2.");
 		System.out.println("Test 3.");
+		
+		ModelB.showInfo();
 	}
 
 }
