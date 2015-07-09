@@ -1,4 +1,4 @@
-package model.func;
+package main.func;
 
 public class ModelB {
 	public static void showInfo() {

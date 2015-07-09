@@ -1,6 +1,5 @@
 package main.func;
 
-import model.func.ModelB;
 
 public class Main {
 
